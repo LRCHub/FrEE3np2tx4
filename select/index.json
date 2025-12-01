@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "かんせい",
+  "base_artist": "大漠波新",
+  "createdAt": "2025-12-01T08:24:13.431804Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "感性モーメント",
+      "artist": "phatmans after school",
+      "has_synced": false,
+      "path": "select/pl_01_感性モーメント_phatmans_after_school.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "感性モーメント",
+      "artist": "phatmans after school",
+      "has_synced": false,
+      "path": "select/pl_02_感性モーメント_phatmans_after_school.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "管制塔",
+      "artist": "phatmans after school",
+      "has_synced": false,
+      "path": "select/pl_03_管制塔_phatmans_after_school.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "歓声",
+      "artist": "phatmans after school",
+      "has_synced": false,
+      "path": "select/pl_04_歓声_phatmans_after_school.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "歓声をさがして",
+      "artist": "phatmans after school",
+      "has_synced": false,
+      "path": "select/pl_05_歓声をさがして_phatmans_after_school.txt"
+    }
+  ]
+}
